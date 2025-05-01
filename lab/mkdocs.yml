@@ -1,0 +1,10 @@
+site_name: AI Workshop Instructions
+docs_dir: 'Workshop Instructions'
+nav:
+  - Introduction: '00_Introduction.md'
+  - Set up: '01_Set_up.md'
+  - Text Generation: '02_Text_Generation.md'
+  - Image Generation: '03_Image_Generation.md'
+  - Multimodal Interfaces: '04_Multimodal_Interfaces.md'
+  - AI Agents: '05_AI_Agents.md'
+  - Summary: '07_Summary.md'
